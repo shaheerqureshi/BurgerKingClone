@@ -1,0 +1,89 @@
+.App {
+  text-align: center;
+  width: 100%;
+}
+.nav-wrapper{
+  border-bottom: 1px solid #eee;
+}
+nav ul a{
+  color:black;
+  font-weight: 700;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+  
+}
+div nav{
+  padding-top: 15px;
+  height: 80px;
+  position: fixed;
+}
+.logo-small{
+  height: 70px;
+  width: 70px;
+}
+.nav-btn{
+  height: 45px;
+  width: 122px;
+    border-radius: 27px;
+    background-color: rgb(190, 90, 9);
+    border: 1px solid rgb(190, 90, 9);
+    margin-right: 10px;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 19px;
+}
+
+#cart-btn{
+  background-color: #ffffff;
+  color: rgb(190, 90, 9);
+}
+.nav-btn:hover{
+  cursor: pointer;
+
+}
+.bag{
+  height:20px;
+  margin-left: 5px;
+  width:20px;
+}
+.lower-div{
+  font-size: 14px;
+    color: rgb(118, 118, 118);
+    text-align: left;
+    max-width: 100%;
+    width: 100%;
+    font-weight: 600;
+    height: 48px;
+    margin-top: -20px;
+    background-color: #ffffff;
+    padding-left: 15px;
+}
+span{
+  color: rgb(190, 90, 9);
+}
+
+.burger-div{
+  background-image: url('https://images.unsplash.com/photo-1586816001966-79b736744398?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+  height: 50rem;
+    width: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.burger-div{
+  text-align: left;
+}
+.burger-head{
+  font-size: 44px;
+  font-weight: 600;
+  padding-top: 310px;
+  padding-left: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #ffffff;
+}
+.free{
+  font-size: 94px;
+  font-weight: 800;
+  padding-top: 310px;
+  color: #ffffff;
+}
