@@ -12,7 +12,7 @@ class Offers extends React.Component{
                     text:'Flamed grill whopper with 2 patties and a cheese slice of top'
                 },
                 {
-                    img:'https://lh3.googleusercontent.com/proxy/P5rTsfw0jtElG58p8WJHgdfj3tB3Vmn-eNq3b-yIG7F1J8iiHr4y8XlSgRLOVhRccDqWZL5fHutVs4_uAUJQkIssfS4BbVcRyd9nq1dfXmKoiy99jA',
+                    img:'https://www.pngmart.com/files/5/Hamburger-Transparent-Background.png',
                     heading:'Whopper Wednesday',
                     text:'Flamed grill whopper with 2 patties and a cheese slice of top'
                 },
